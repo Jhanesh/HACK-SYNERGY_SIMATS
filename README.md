@@ -41,11 +41,13 @@ The **Live Speech Translator** is a real-time speech-to-text translation tool th
     python translator.py
 
 2. **Select input and output languages:**
-   The program prompts you to choose a language for speech input.
-   
-   Choose the target language for translation.
+   - The program prompts you to choose a language for speech input.
+   - Choose the target language for translation.
    
 3. **Start speaking:**
-The application will listen to your voice, convert it to text, and translate it.
-The translated text is then spoken aloud using gTTS.
+   - The application will listen to your voice, convert it to text, and translate it.
+   - The translated text is then spoken aloud using gTTS.
+
+  **Supported Languages**
+  - English, Hindi, French, Spanish, German, Chinese, Japanese, Korean, Arabic, Tamil, Telugu, and more.
 
