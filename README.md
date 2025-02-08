@@ -51,3 +51,15 @@ The **Live Speech Translator** is a real-time speech-to-text translation tool th
   **Supported Languages**
   - English, Hindi, French, Spanish, German, Chinese, Japanese, Korean, Arabic, Tamil, Telugu, and more.
 
+## Troubleshooting
+1. If the microphone is not working, ensure pyaudio is installed correctly.
+2. If translation fails, check your internet connection as googletrans requires an active connection.
+
+
+## License
+This project is licensed under the MIT License.
+
+## Author
+- Jhanesh V
+- jhaneshvanka@gmail.com
+- https://github.com/Jhanesh
